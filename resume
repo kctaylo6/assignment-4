@@ -1,17 +1,20 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
-<title>The Pretty Girl Project Social Page</title>
+<title>The Pretty Girl Project </title>
 </head>
 
 <body>
 
-<h1 >  WHOMMMMMMMMMP! Welcome to My Biography Page </h1>
+<h1 >  Whommmp! Welcome to our Biography Page!</h1>
 
-<a href ="file:///C:/Users/keita/AppData/Local/Temp/Temp1_index.zip/resume.html">Link to our Socials page <br> </a>
+<a href ="Assign%201%20Resume.pdf">Link to my Resume <br> </a>
 
 
-<a href ="Temp1_index.html"> WHOMMMMMMP! Click Here for Home Page!<br> </a>
+<img src="Arizona_State_University_seal.png" alt="ASU Seal"width="600" height= "600" >
+
+
+<a href ="index.html"> Whommmmp !Click Here for Home Page!<br> </a>
 
 
 
